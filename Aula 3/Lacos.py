@@ -1,3 +1,5 @@
+# É um looping
+
 # O 'for' é usado para repetir uma acao varias vezes.
 #   Exemplo com range():
 #     for i in range(5):
