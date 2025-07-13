@@ -1,0 +1,1 @@
+# Um objeto é algo que representa uma coisa do mundo real e tem características (dados) e ações (funções).
